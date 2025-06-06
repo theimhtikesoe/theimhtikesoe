@@ -29,7 +29,7 @@
 - Gmail: hlah3894@gmail.com  
 - YouTube: [Rhyzoe on YouTube](https://youtube.com/@rhyzoeinburma)  
 - Spotify: [Rhyzoe on Spotify](https://open.spotify.com/artist/6nyd1OiXag3LVVhASA1HQ9)  
-- GitHub Projects: [New Life Taunggyi](https://github.com/theimhtikesoe/New_Life_Taunggyi)
+- Portfolio: https://rhyzoe-portfolio.vercel.app/
 
 ---
 

@@ -40,9 +40,10 @@ I’m a **Frontend Developer** and **Musical Artist** based in Bangkok, bridging
 
 ## 📈 GitHub Insights
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=theimhtikesoe&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimhtikesoe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=theimhtikesoe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theimhtikesoe&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 

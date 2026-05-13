@@ -51,7 +51,7 @@ I’m a **Frontend Developer** and **Musical Artist** based in Bangkok, bridging
 - **Email:** hlah3894@gmail.com  
 - **LinkedIn:** [theimhtikesoe](https://linkedin.com/in/theimhtikesoe)
 - **Spotify:** [Rhyzoe](https://open.spotify.com/artist/6nyd1OiXag3LVVhASA1HQ9)  
-- **YouTube:** [Zayat Vibes](https://youtube.com/@rhyzoeinburma)  
+- **YouTube:** [Zayat Vibes](https://youtube.com/@zayatvibes?si=O8MOSZ3Q9UdZ9FEd)  
 
 ---
 <p align="center">
